@@ -9,8 +9,6 @@ public class Estoque {
         this.QtdeEmEstoque = QtdeEmEstoque;
     }
 
-    public void MostrarEstoque(){
-    
-    }
+    public void MostrarEstoque(){}
 
 }
